@@ -13,10 +13,11 @@
   /*-----メッセージ一覧-----*/
   .upper-message{
     margin: 10px 0 0 0;
+    display: flex;
   }
 
   .message{
-    display: flex;
+    
   }
 
   .user_message{
